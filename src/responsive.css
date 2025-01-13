@@ -1194,6 +1194,11 @@ input:checked + .toggle-bg {
   margin-bottom: 1.25rem;
 }
 
+.my-auto {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
 .mb-1 {
   margin-bottom: 0.25rem;
 }
@@ -1204,6 +1209,10 @@ input:checked + .toggle-bg {
 
 .ml-10 {
   margin-left: 2.5rem;
+}
+
+.mr-10 {
+  margin-right: 2.5rem;
 }
 
 .mt-1 {
